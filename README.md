@@ -1,4 +1,6 @@
 # ATEM-Tally-Light
+This version was intitally designed by https://github.com/AronHetLam/ATEM_tally_light_with_ESP8266
+The code has been modified slightly to work with LEDs from LED tape that use common +
 Wireless tally light for use with ATEM switchers. Connects over WiFi using only a D1 mini board (ESP8266 WiFi module) and a RGB LED. This solution is __not__ limited by the ATEM switchers' connection limit, making it possible to connect as many as you need.
 
 Should easily be convertable to use with regular Arduino boards and an ESP8266 module, by changeing the include statements and a few other things (however, this is not tested).
@@ -40,6 +42,7 @@ See details at [ESP8266](https://github.com/esp8266/Arduino) on how to setup and
 They have links for further documentation as well.
 
 # Credits
+This version was initally designed by https://github.com/AronHetLam/ATEM_tally_light_with_ESP8266 Used with permission.
 Based on ATEM libraries for Arduino by [SKAARHOJ](https://www.skaarhoj.com/), available at Git repo: [SKAARHOJ-Open-Engineering](https://github.com/kasperskaarhoj/SKAARHOJ-Open-Engineering)
 
 Inspired by [ATEM_Wireless_Tally_Light](https://github.com/kalinchuk/ATEM_Wireless_Tally_Light) (However, this works completely different)

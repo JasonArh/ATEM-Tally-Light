@@ -42,7 +42,7 @@ See details at [ESP8266](https://github.com/esp8266/Arduino) on how to setup and
 They have links for further documentation as well.
 
 # Credits
-This version was initally designed by https://github.com/AronHetLam/ATEM_tally_light_with_ESP8266 Used with permission.
+This version was initally designed by https://github.com/AronHetLam/ATEM_tally_light_with_ESP8266
 Based on ATEM libraries for Arduino by [SKAARHOJ](https://www.skaarhoj.com/), available at Git repo: [SKAARHOJ-Open-Engineering](https://github.com/kasperskaarhoj/SKAARHOJ-Open-Engineering)
 
 Inspired by [ATEM_Wireless_Tally_Light](https://github.com/kalinchuk/ATEM_Wireless_Tally_Light) (However, this works completely different)
